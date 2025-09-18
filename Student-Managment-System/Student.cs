@@ -18,4 +18,9 @@ namespace Student_Managment_System
         public int Age;
         public Course Course;
     }
+    public class Mark
+    {
+        public int MarkId;
+        public int Marks;
+    } 
 }
